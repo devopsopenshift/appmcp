@@ -1,0 +1,6 @@
+{
+  "name": "AeroFuel Skate Science Lab",
+  "description": "Interactive Class 4 EVS sports science, nutrition, digestion, and animal biomechanics dashboard for inline speed skating performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
